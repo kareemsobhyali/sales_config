@@ -4,5 +4,5 @@
   "sync_interval_seconds": 60,
   "agent_version": "1.0.1",
   "agent_download_url": "https://github.com/spctrem9000-ctrl/sales-api/releases/download/sales/SalesMonitorAgent.exe",
-"agent_sha256": "342445a454cd80171e8fde9887b531345e856ab5"
+"agent_sha256": "40c59cef79edc283f4d1f66e949b6f50d1ed3aefed0f2f77496063ead3105207"
 }
