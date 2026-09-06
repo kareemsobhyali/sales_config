@@ -2,6 +2,7 @@
 {
   "api_url": "https://sales-api-ngdi.onrender.com/",
   "sync_interval_seconds": 60,
-  "agent_version": "1.0.0",
-  "agent_download_url": "https://github.com/kareemsobhyali/sales_config/releases/download/sales/v1.exe"
+  "agent_version": "1.0.1",
+  "agent_download_url": "https://github.com/spctrem9000-ctrl/sales-api/releases/download/sales/SalesMonitorAgent.exe",
+"agent_sha256": "342445a454cd80171e8fde9887b531345e856ab5"
 }
