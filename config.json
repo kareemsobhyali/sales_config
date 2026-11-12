@@ -2,7 +2,7 @@
 {
   "api_url": "http://13.61.174.172",
   "sync_interval_seconds": 60,
-  "agent_version": "1.0.0",
-  "agent_download_url": "https://github.com/spctrem9000-ctrl/sales-api/releases/download/sales/SalesMonitorAgent.exe",
-"agent_sha256": "7dffe7ca3d0fbe1c4e0cc593eec3c4cb1ad623a32f9959cdf87d12d49f92bfb3"
+  "agent_version": "1.1.0",
+  "agent_download_url": "https://github.com/kareemsobhyali/sales_config/releases/download/sale/SalesMonitorAgent.exe",
+"agent_sha256": "0f3d91423ea43ce77d4c8a74e4a5af8e72a7a3a6695295f9361e12278063ec15"
 }
