@@ -1,8 +1,7 @@
-
 {
-  "api_url": "http://13.61.174.172",
-  "sync_interval_seconds": 60,
-  "agent_version": "1.1.0",
-  "agent_download_url": "https://github.com/kareemsobhyali/sales_config/releases/download/sale/SalesMonitorAgent.exe",
-"agent_sha256": "0f3d91423ea43ce77d4c8a74e4a5af8e72a7a3a6695295f9361e12278063ec15"
+    "api_url": "http://13.61.174.172",
+    "sync_interval_seconds": 30,
+    "agent_version": "1.4.0",
+    "agent_download_url": "https://github.com/kareemsobhyali/sales_config/releases/download/sales/SalesMonitorAgent.exe",
+    "agent_sha256": "2517d3f0e6bb6262d19db85ef9e4c9b81a2cf7d08595d643aaf96d5528fb639d"
 }
